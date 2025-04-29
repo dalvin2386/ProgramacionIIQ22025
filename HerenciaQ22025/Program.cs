@@ -16,7 +16,7 @@ vertebrado.Imprimir();
 Console.WriteLine();
 
 Invertebrado invertebrado = new Invertebrado();
-invertebrado.Nombre = "Medusa";
+invertebrado.Nombre = "Medusa2";
 invertebrado.Edad = 3;
 invertebrado.Especie = "Aurelia aurita";
 invertebrado.Habitat = "Océano";
