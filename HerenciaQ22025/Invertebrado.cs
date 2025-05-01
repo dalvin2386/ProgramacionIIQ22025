@@ -2,15 +2,15 @@
 {
     public class Invertebrado : Animal
     {
-        public string TipoCuerpo { get; set; }
+        public string? TipoCuerpo { get; set; }
 
-        public string MetodoReproduccion { get; set; }
+        public string? MetodoReproduccion { get; set; }
 
-        public string TipoAlimentacion { get; set; }
+        public string? TipoAlimentacion { get; set; }
 
-        public string CicloVida { get; set; }
+        public string? CicloVida { get; set; }
 
-        public string Tamano { get; set; }
+        public string? Tamano { get; set; }
 
         public void Imprimir()
         {
